@@ -1,0 +1,229 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body{
+font-size: 16px;
+line-height: 1.4;
+
+}
+
+img{
+
+max-width: 100%;
+
+
+}
+
+header{
+background-color: rgb(251, 251, 253);
+padding: 15px;
+box-shadow: 0 0 3px;
+
+
+
+}
+
+.container{
+
+    width:1600px;
+
+
+
+
+margin: 0 auto;
+font-size: 22px;
+color: aliceblue;
+
+}
+
+.v-center{
+
+    align-items: center;
+}
+
+.flex{
+
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.logo{
+
+flex-basis:40%;
+
+
+
+
+}
+
+.nav{
+
+    flex-basis: 70%;
+    
+    
+   
+}
+
+.logo a{
+
+font-size: 30px;
+font-weight: 800;
+text-decoration: none;
+color: rgb(29, 28, 28);
+text-align: center;
+
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+nav ul li{
+  
+
+   
+
+}
+
+nav ul li a{
+    color: rgb(21, 44, 46);
+    font-size: 22px;
+    text-decoration: none;
+    padding:12px 30px ;
+  display: inline-block;
+  transition: border 0.4s linear;
+  border-bottom: 1.5px solid #fffdfd ;
+
+   
+
+}
+
+nav ul li a:hover{
+    border-bottom: 1.7px solid #40d305 ;
+   
+   
+}
+
+
+.herobanner{
+    background-image: radial-gradient(circle at -48% 130%,#d0f224aa 24%,#054a49 45%);
+min-height: 89px;
+padding: 15px 10px;
+display: flex;
+align-items: center;
+
+}
+
+.herobanner img{
+
+}
+
+
+
+.column-1-2{
+
+flex-basis: 50%;
+
+}
+
+.herobanner h1{
+
+    font-size: 40px;
+    color: rgba(255, 254, 254, 0.76);
+    padding-top: 200px;
+font-weight: 800;
+ display: block;
+
+ 
+}
+
+
+
+.v-center{
+align-items: center;
+
+}
+
+.counter {
+
+    border-right: 1px solid #054a49; 
+    
+}
+
+.counter div{
+    
+flex-basis: 15%;
+
+
+
+font-size: 18px;
+color: white;
+padding-bottom: 250px;
+font-weight:200;
+display: block;
+
+
+
+
+
+
+
+}
+
+.counter div h2{
+ 
+   
+   color: rgb(247, 250, 252);
+
+}
+
+.counter div span{
+
+background-color: rgb(18, 129, 219);
+
+}
+
+ div h2 :hover{
+
+    border-right: 1px solid #054a49;
+
+}
+
+ 
+
+
+
+    
+    .containers{
+    
+        width:1170px;
+    
+    
+    
+    
+    margin: 0 auto;
+    font-size:18px;
+    color: rgb(5, 37, 65);
+    text-align: center;
+    
+    }
+
+
+    .selction div {
+        
+    width: ;
+    }
+    
